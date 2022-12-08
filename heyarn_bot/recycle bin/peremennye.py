@@ -1,0 +1,4 @@
+token = "5662718306:AAEem8c78aebPcf4wD7xK3uj5e0fegEJq6A"
+AdminID = 949075256
+
+
